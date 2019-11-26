@@ -7,13 +7,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header/index';
 import CompanyCard from './components/CompanyCard/index';
 import Visitation from './components/Visitation/index';
+import Company from './components/Company/index';
 
 function App() {
   return (
     <div className="App">
       <Header />
       {/* <CompanyCard /> */}
-      <Visitation />
+      {/* <Visitation /> */}
+      <Company />
     </div>
   );
 }

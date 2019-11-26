@@ -1,20 +1,20 @@
-.visitation-form {
+.company-form {
   display: flex;
   flex-direction: column;
   width: 400px;
   margin: 0 auto;
 }
 
-.visitation-form label {
+.company-form label {
   display: block;
   margin-top: 25px;
 }
 
-.visitation-form h1 {
+.company-form h1 {
   margin-bottom: 25px;
 }
 
-.visitation-form .btn {
+.company-form .btn {
   border-radius: 20px;
   margin-top: 25px;
 }
