@@ -1,0 +1,11 @@
+.navbar img {
+  margin: 10px 0 10px 50px;
+
+  border: double 4px transparent;
+  border-radius: 80px;
+  background-image: 
+    linear-gradient(white, white), 
+    radial-gradient(circle at top left, #43A6ED,#46DEBB);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}

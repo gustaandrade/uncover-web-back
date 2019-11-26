@@ -1,0 +1,32 @@
+.card-deck {
+  display: flex;
+  margin: 20px 100px;
+  flex-wrap: wrap;
+}
+
+.card-deck .card {
+  border: 0;
+  flex: 1 0 25%;
+  margin: 20px;
+  max-width: 30%;
+}
+
+.card-deck .card-img {
+  border-radius: 10px;
+}
+
+.card-deck .card-img-overlay {
+  top: auto;
+}
+
+.card-deck .card-title {
+  text-align: center;
+  font-weight: 900;
+  font-size: 18pt;
+}
+
+.card-deck .card-text {
+  text-align: center;
+  font-weight: 300;
+  font-size: 10pt;
+}
