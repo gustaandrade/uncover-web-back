@@ -9,3 +9,7 @@
   background-origin: border-box;
   background-clip: content-box, border-box;
 }
+
+.navbar .btn {
+  margin: 10px 50px 10px 0;
+}
