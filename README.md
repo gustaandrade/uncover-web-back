@@ -1,5 +1,5 @@
-# hackaton-rsxp-projeto-educa
-Este o repositório para a aplicação frontend desenvolvida durante a Hackaton do evento RS/XP 2019 da Rocketseat.
+# uncover-web-back
+Este o repositório para a aplicação Uncover, frontend e backend, desenvolvida durante a Hackaton do evento RS/XP 2019 da Rocketseat.
 
 ## Tema
 O tema da Hackaton da RS/XP 2019 pediu o desenvolvimento de um projeto que despertasse o interesse da carreira de programador ao jovem que cursa ou que acaba de terminar o ensino médio através da educação.
@@ -35,7 +35,13 @@ A web é dedicada aos administradores de sistema e de empresas, onde eles poder�
 O app é dedicado aos jovens, onde eles poderão explorar novas empresas através de seus gostos, conhecer mais a fundo as empresas escolhidas, ver os próximos eventos, acessar aos cursos oferecidos e gerenciar a sua conta.
 
 ## Desafios
-O grande desafio desse projeto é chegar até o jovem e engajá-lo a usar a plataforma e fazer o processo de conhecer mais a fundo as empresas. Para isso, uma possível solução encontrada pelo time é ir até as escolas onde esses jovens estão e, através de eventos de carreiras ou visita as salas de aula, apresentar de forma didática e com linguagem compatível o que a plataforma faz, e de que forma ela pode a e, por consequênciajudar no desenvolvimento de carreira dos formandos na área de programação.
+O grande desafio desse O time pesquisou problemas que os jovens do ensino médio encontram para seguir a carreira na programação e escolheu resolver o problema do não entendimento de como é o dia-a-dia de um desenvolvedor dentro de uma empresa. Para isso a Uncover, uma plataforma que atua como ponte entre o jovem e a empresa de tecnologia de sua escolha.
+
+O jovem, através da plataforma, dirá quais os seus principais interesses e terá a oportunidade de conhecer como funciona a área de desenvolvimento de empresas relacionadas aos interesses escolhidos, ver quais as tecnologias usadas pela equipe, marcar uma visita ao escritório e acessar aos cursos de programação oferecidos por uma escola parceira, relacionados às tecnologias usadas nessa empresa.
+
+Para chegarmos até o jovem, vamos até as salas de aula das escolas, divulgando o Uncover diretamente aos alunos as empresas que estão dentro da plataforma, apresentando em feiras de carreiras e até mostrando aplicativos feitos nessas empresas.
+
+Queremos ajudar a desmistificar a programação dentro das empresas e ajudar a formar mais programadores para trabalharem nas empresas que gostam.projeto é chegar até o jovem e engajá-lo a usar a plataforma e fazer o processo de conhecer mais a fundo as empresas. Para isso, uma possível solução encontrada pelo time é ir até as escolas onde esses jovens estão e, através de eventos de carreiras ou visita as salas de aula, apresentar de forma didática e com linguagem compatível o que a plataforma faz, e de que forma ela pode a e, por consequência ajudar no desenvolvimento de carreira dos formandos na área de programação.
 
 Outro desafio é engajar as empresas para que elas usem a plataforma para abrir as portas para  novos talentos ou incentivar a formação de novos desenvolvedores e, por consequência, fortalecendo a comunidade daquela linguagem ou daquele lugar.
 
@@ -46,3 +52,12 @@ Outros problemas relatados pelo público alvo podem muito bem serem resolvidos a
 
 ## Linguagens
 O frontend foi desenvolvido em ReactJS, usando a biblioteca react-bootstrap, o backend foi desenvolvido em AdonisJS e o nativo foi desenvolvido em React Native.
+
+## Resumo
+O time pesquisou problemas que os jovens do ensino médio encontram para seguir a carreira na programação e escolheu resolver o problema do não entendimento de como é o dia-a-dia de um desenvolvedor dentro de uma empresa. Para isso a Uncover, uma plataforma que atua como ponte entre o jovem e a empresa de tecnologia de sua escolha.
+
+O jovem, através da plataforma, dirá quais os seus principais interesses e terá a oportunidade de conhecer como funciona a área de desenvolvimento de empresas relacionadas aos interesses escolhidos, ver quais as tecnologias usadas pela equipe, marcar uma visita ao escritório e acessar aos cursos de programação oferecidos por uma escola parceira, relacionados às tecnologias usadas nessa empresa.
+
+Para chegarmos até o jovem, vamos até as salas de aula das escolas, divulgando o Uncover diretamente aos alunos as empresas que estão dentro da plataforma, apresentando em feiras de carreiras e até mostrando aplicativos feitos nessas empresas.
+
+Queremos ajudar a desmistificar a programação dentro das empresas e ajudar a formar mais programadores para trabalharem nas empresas que gostam.
