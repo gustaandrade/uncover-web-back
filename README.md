@@ -19,7 +19,9 @@ Já a empresa pode colocar o seu material na plataforma e gerenciar eventos para
 Através dessa visita, o jovem pode conhecer com detalhes como é a empresa, suas estruturas, tecnologias usadas, tendo a experiência de um dia dentro da mesma, entre outras atividades, despertando assim o interesse na carreira de programador e nas tecnologias de desenvolvimento.
 
 ## Metodologia
-A metodologia escolhida para chegar até a solução do problema foi conversar com jovens que estão dentro do público alvo do tema e ver quais são as dores que eles estão passando. Após a concentração e filtragem desses dados, o time chegou a conclusão de que o problema mais importante a ser resolvido no momento foi o problema descrito nos tópicos acima.
+A metodologia escolhida para chegar até a solução do problema foi conversar com jovens que estão dentro do público alvo do tema e ver quais são as dores que eles estão passando no momento. Após a concentração e filtragem desses dados, o time fez uma breve análise de mercado e de proposições para verificar um caminho viável para a solução.
+
+Após análise e discussão entre os membros, o time chegou a conclusão de que o problema mais importante a ser resolvido no momento foi o problema descrito nos tópicos acima.
 
 A partir daí, com o público definido e o problema escolhido, o time partiu para pensar em como solucionar o último de forma a engajar o jovem a conhecer mais e se interessar pela área de programação como carreira. Surgiu então a ideia descrita no tópico acima, baseada na experiência anterior de um dos integrantes, que foi fundamental para a escolha de carreira dele.
 
@@ -43,4 +45,4 @@ A visão de futuro do time é concluir o desenvolvimento da plataforma com as id
 Outros problemas relatados pelo público alvo podem muito bem serem resolvidos através da plataforma num futuro, como a ligação do jovem com um mentor que tire as suas dúvidas em relação às tecnologias, ou a oportunidade de conversar com jovens na mesma situação através de salas comunitárias, entre outras ferramentas, as quais o time está bem empolgado para desenvolver.
 
 ## Linguagens
-O frontend foi desenvolvido em React, usando a biblioteca react-bootstrap.
+O frontend foi desenvolvido em ReactJS, usando a biblioteca react-bootstrap, o backend foi desenvolvido em AdonisJS e o nativo foi desenvolvido em React Native.
