@@ -4,7 +4,13 @@ const User = use("App/Models/User");
 
 class UserController {
   async register({ request }) {
-    const data = request.only(["username", "email", "password"]);
+    const data = request.only([
+      "username",
+      "email",
+      "password",
+      "age",
+      "phone"
+    ]);
 
     const user = await User.create(data);
 
