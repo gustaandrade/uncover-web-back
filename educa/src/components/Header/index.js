@@ -1,16 +1,18 @@
-import React from 'react';
-import Navbar from 'react-bootstrap/Navbar';
-import Button from 'react-bootstrap/Button';
+import React from "react";
+import Navbar from "react-bootstrap/Navbar";
+import Button from "react-bootstrap/Button";
 
-import './header.css';
+import { Link } from "react-router-dom";
 
-import Logo from '../../assets/logo512.png';
+import "./header.css";
+
+import Logo from "../../assets/logo512.png";
 
 const Header = () => {
   return (
     <>
       <Navbar className="navbar justify-content-between">
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/">
           <img
             alt=""
             src={Logo}
@@ -19,7 +21,14 @@ const Header = () => {
             className="d-inline-block align-top"
           />
         </Navbar.Brand>
-        <Button variant="primary" size="lg">Cadastrar</Button>
+        <div className="buttons">
+          <Link to="/new-visitation">
+            <button className="app-button">Cadastrar Visita</button>
+          </Link>
+          <Link to="/new-company">
+            <button className="app-button">Cadastrar Empresa</button>
+          </Link>
+        </div>
       </Navbar>
     </>
   );

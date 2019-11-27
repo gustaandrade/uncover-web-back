@@ -1,22 +1,20 @@
-import React from 'react';
-// import { BrowserRouter } from 'react-router-dom';
+import React from "react";
+import { BrowserRouter } from "react-router-dom";
 
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-import Header from './components/Header/index';
-import CompanyCard from './components/CompanyCard/index';
-import Visitation from './components/Visitation/index';
-import Company from './components/Company/index';
+import Header from "./components/Header/index";
+
+import Routes from "./routes";
 
 function App() {
   return (
-    <div className="App">
+    <BrowserRouter>
       <Header />
-      {/* <CompanyCard /> */}
-      {/* <Visitation /> */}
-      <Company />
-    </div>
+
+      <Routes />
+    </BrowserRouter>
   );
 }
 
